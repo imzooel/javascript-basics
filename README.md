@@ -1,4 +1,4 @@
-# some infos should be remembered
+# some infos should be remembered -imzooel
 ## List of falsy values in JavaScript
 ```
   false
