@@ -1,5 +1,5 @@
 # some infos should be remembered
-## -List of falsy values in JavaScript
+## List of falsy values in JavaScript
 ```
   false
   null
@@ -11,7 +11,7 @@
   0n
   -0
 ```
-## -null vs undefined
+## null vs undefined
   `undefined` indicates a variable has been declared but has not yet been assigned a value
 ```
   let imZooel;
@@ -30,5 +30,3 @@ so `undefined` is a type itself (undefined) while `null` is an object.
   null == undefined // true
   null === null // true
   
-  null = 'value' // ReferenceError
-  undefined = 'value' // 'value'
