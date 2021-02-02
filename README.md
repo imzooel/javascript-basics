@@ -31,3 +31,11 @@ so `undefined` is a type itself (undefined) while `null` is an object.
   null === null // true
 there is a twist between == double equal & === triple equal
 ```
+## comparison operator: double equall vs triple equal
+```
+  == is used for comparing two variables, but it ignores the datatype of variable whereas 
+  === is used for comparing two variables, but this operator also checks datatype and compares two values.
+  
+  == Return true only if the two operands are equal while 
+  === returns true only if both values and data types are the same for the two variables.
+  ```
