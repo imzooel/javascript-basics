@@ -1,4 +1,5 @@
 # List of falsy values in JavaScript
+```
 ### false
 ### null
 ### undefined
@@ -8,3 +9,4 @@
 ### document.all
 ### 0n
 ### -0
+```
