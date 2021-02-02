@@ -25,8 +25,8 @@
   alert(typeof imZooel); //shows object
 ```
 so `undefined` is a type itself (undefined) while `null` is an object.
-
+```
   null === undefined // false
   null == undefined // true
   null === null // true
-  
+```
